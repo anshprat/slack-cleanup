@@ -1,0 +1,31 @@
+{
+    "display_information": {
+        "name": "conversations.leave",
+        "description": "bot to help cleanup channels and groups",
+        "background_color": "#2c7011",
+        "long_description": "Bot to leave all channels/conversations/groups with either exclusion list or an included list only. Wait, If your app is listed in the App Directory, please communicate any plans to deprecate it to your users, and be prepared to respond to questions and support requests after deleting it."
+    },
+    "oauth_config": {
+        "scopes": {
+            "user": [
+                "channels:read",
+                "channels:write",
+                "groups:read",
+                "groups:write",
+                "im:read",
+                "im:write",
+                "mpim:read",
+                "mpim:write",
+                "chat:write"
+            ]
+        }
+    },
+    "settings": {
+        "interactivity": {
+            "is_enabled": true
+        },
+        "org_deploy_enabled": false,
+        "socket_mode_enabled": true,
+        "token_rotation_enabled": false
+    }
+}
