@@ -176,7 +176,7 @@ async function addSearchBox(group) {
         for (const key of controlButtonsMap.keys()) {
             controlButton = document.createElement('button');
             controlButton.type = "button";
-            controlButton.className = "control-button";
+            controlButton.className = "control-button button-3";
             controlButton.id = group + "-control-button-" + key;
             // PrevPage is disabled by default
             if (key == "prevPage") {

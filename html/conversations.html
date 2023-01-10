@@ -11,9 +11,14 @@
 </head>
 
 <body>
-    <div class="info box">&#9432; Slack rate limits <a href="https://api.slack.com/methods/conversations.leave" target="_blank">conversations.leave</a> (for channels) at 50 requests per minute 
-        and <a href="https://api.slack.com/methods/conversations.close" target="_blank">conversations.close</a> for IM amd MPIM at 20 requests per minute.
-        Also, due to <a href="https://forums.slackcommunity.com/s/question/0D73a000005nIDmCAM/detail" target="_blank">broken api responses</a>, we need to make additional api calls for IMs and MPIMs to find open conversations using <a href="https://api.slack.com/methods/conversations.leave" target="_blank">conversations.info</a> which are also rate limited at 50 requests per minute.
+    <div class="info box">&#9432; Slack rate limits <a href="https://api.slack.com/methods/conversations.leave"
+            target="_blank">conversations.leave</a> (for channels) at 50 requests per minute
+        and <a href="https://api.slack.com/methods/conversations.close" target="_blank">conversations.close</a> for IM
+        amd MPIM at 20 requests per minute.
+        Also, due to <a href="https://forums.slackcommunity.com/s/question/0D73a000005nIDmCAM/detail"
+            target="_blank">broken api responses</a>, we need to make additional api calls for IMs and MPIMs to find
+        open conversations using <a href="https://api.slack.com/methods/conversations.leave"
+            target="_blank">conversations.info</a> which are also rate limited at 50 requests per minute.
         Please plan for browser wait time accordingly.
         All caches are per tab.
     </div>
@@ -31,7 +36,10 @@
             <div class="js-loading" id="js-loading">Getting conversations..</div>
 
             <div class="conversations-container" id="conversations-container"> </div>
-            <input type="submit" name="form-submit" id="form-submit" value="Submit Slack Cleanup">
+            <div class="cleanup-submit-container">
+                <input type="submit" name="form-submit" id="form-submit" class="button-3 cleanup-submit-button"
+                    value="Submit Slack Cleanup">
+            </div>
         </form>
     </div>
     <div id="processData"> </div>
