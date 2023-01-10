@@ -1,1 +1,83 @@
-const _0x508c6e=_0x1b5c;function _0x1b5c(_0xc6ed39,_0x4840dc){const _0x319a7f=_0x3db6();return _0x1b5c=function(_0x183b9e,_0x11aa52){_0x183b9e=_0x183b9e-(-0x1*-0x3b3+0x155f+0x311*-0x8);let _0x48630a=_0x319a7f[_0x183b9e];return _0x48630a;},_0x1b5c(_0xc6ed39,_0x4840dc);}(function(_0x331a72,_0x3741e4){const _0x2ad6bf=_0x1b5c,_0x4c4d0f=_0x331a72();while(!![]){try{const _0x3cbc42=parseInt(_0x2ad6bf(0xa0))/(0x660+-0x180d+0x11ae)*(parseInt(_0x2ad6bf(0xa6))/(-0x249f+0x98*-0x3c+0x15d*0x35))+parseInt(_0x2ad6bf(0xaa))/(-0xb78+-0x2511+0x308c)*(-parseInt(_0x2ad6bf(0xcf))/(0x345*-0x6+-0x23ef+0x3791))+parseInt(_0x2ad6bf(0xb5))/(0x117c*-0x2+-0x13ea*-0x1+-0x11*-0xe3)*(parseInt(_0x2ad6bf(0xc9))/(-0x6d7+-0xdef+0x14cc))+-parseInt(_0x2ad6bf(0x8d))/(-0x6*-0x4ca+0x2*0x487+-0x25c3)*(-parseInt(_0x2ad6bf(0xb7))/(0x1044+0x1*-0x171f+0x6e3))+-parseInt(_0x2ad6bf(0xa5))/(0x11bc+0xd36+0x1ee9*-0x1)*(parseInt(_0x2ad6bf(0x95))/(0x19f6+-0x16e0+0xf*-0x34))+parseInt(_0x2ad6bf(0x8e))/(0x1*0x430+0x2581+-0x29a6)+-parseInt(_0x2ad6bf(0xbb))/(-0x95b+0x1d78+-0x1411);if(_0x3cbc42===_0x3741e4)break;else _0x4c4d0f['push'](_0x4c4d0f['shift']());}catch(_0xc5fa62){_0x4c4d0f['push'](_0x4c4d0f['shift']());}}}(_0x3db6,0x22dd5+-0x5e5b3+0x74d03));const sci=_0x508c6e(0xa1)+_0x508c6e(0x97)+_0x508c6e(0xca),scc=_0x508c6e(0xc6)+_0x508c6e(0xa8)+_0x508c6e(0x9a)+'be',url=new URL(window[_0x508c6e(0xbd)][_0x508c6e(0x9c)]),params=new URLSearchParams(url[_0x508c6e(0xbf)]),oauth_code=params[_0x508c6e(0xbe)](_0x508c6e(0xc4)),oauth_state=params[_0x508c6e(0xbe)](_0x508c6e(0x90)),link=document[_0x508c6e(0xb3)+_0x508c6e(0xc0)](_0x508c6e(0x9d)+_0x508c6e(0xb6));if(oauth_state==null){const state_id=Math[_0x508c6e(0xab)]()[_0x508c6e(0x8a)](-0x1271*-0x1+-0x20d6+0xe89)[_0x508c6e(0x92)](0xa34+-0x1cf*-0x3+-0xf9f,-0x4b2*0x7+-0xb*-0x30a+0x87*-0x1);sessionStorage[_0x508c6e(0xc8)](_0x508c6e(0xa7),state_id),origHref=link[_0x508c6e(0xb1)+'te'](_0x508c6e(0x9c)),newHref=origHref[_0x508c6e(0xa2)](_0x508c6e(0xc1),sci)+_0x508c6e(0xb0)+state_id+(_0x508c6e(0xa3)+_0x508c6e(0xaf))+url,link[_0x508c6e(0x8c)+'te'](_0x508c6e(0x9c),newHref);function Redirect(){const _0x384312=_0x508c6e;window[_0x384312(0xbd)]=newHref;}}else{state_id=sessionStorage[_0x508c6e(0x9f)](_0x508c6e(0xa7));if(oauth_state!=''){if(state_id!=oauth_state)alert(_0x508c6e(0xa9)+_0x508c6e(0xc5),state_id,oauth_state),window[_0x508c6e(0xbd)]=url[_0x508c6e(0xcc)]+url[_0x508c6e(0xb8)];else{link[_0x508c6e(0x93)][_0x508c6e(0xcd)]=_0x508c6e(0xa4);const data=new FormData();data[_0x508c6e(0xae)](_0x508c6e(0xc4),oauth_code),data[_0x508c6e(0xae)](_0x508c6e(0xce),sci),data[_0x508c6e(0xae)](_0x508c6e(0xb2)+_0x508c6e(0x8b),scc),data[_0x508c6e(0xae)](_0x508c6e(0x9e)+'ri',url[_0x508c6e(0xcc)]+url[_0x508c6e(0xb8)]),fetch(_0x508c6e(0xbc)+_0x508c6e(0xc2)+_0x508c6e(0xac)+_0x508c6e(0x9b),{'method':_0x508c6e(0x96),'body':data})[_0x508c6e(0x94)](_0x2b08bc=>_0x2b08bc[_0x508c6e(0xcb)]())[_0x508c6e(0x94)](_0x4b1b63=>{const _0x5010d5=_0x508c6e,_0x3002f5={'AmlAe':_0x5010d5(0x98)+'r','uqBKp':function(_0x16ba1a,_0x4ad16e){return _0x16ba1a+_0x4ad16e;},'oIsrQ':_0x5010d5(0x99)+_0x5010d5(0xc3),'oaeKD':function(_0x59e910,_0x21982e){return _0x59e910+_0x21982e;}};if(_0x4b1b63['ok']){var _0x29763d='';authed_user=_0x4b1b63[_0x3002f5[_0x5010d5(0xb9)]];for(var _0x46beae in authed_user){sessionStorage[_0x5010d5(0xc8)](_0x46beae,authed_user[_0x46beae]);}window[_0x5010d5(0xbd)]=_0x3002f5[_0x5010d5(0x8f)](url[_0x5010d5(0xcc)],_0x3002f5[_0x5010d5(0xc7)]);}else window[_0x5010d5(0xbd)]=_0x3002f5[_0x5010d5(0xad)](url[_0x5010d5(0xcc)],url[_0x5010d5(0xb8)]);})[_0x508c6e(0x91)](_0x5ec97b=>{const _0x4059f2=_0x508c6e,_0x539d46={'sEHCv':function(_0x37eb41,_0x1545d8){return _0x37eb41+_0x1545d8;}};console[_0x4059f2(0xb4)](_0x5ec97b),window[_0x4059f2(0xbd)]=_0x539d46[_0x4059f2(0xba)](url[_0x4059f2(0xcc)],url[_0x4059f2(0xb8)]);});}}}function _0x3db6(){const _0x3d49a8=['sEHCv','1076892FqoNot','https://sl','location','get','search','ById','sci','ack.com/ap','ions.html','code','\x20matching','3d1c4edaa7','oIsrQ','setItem','6GCdFxh','5410','json','origin','display','client_id','4wyAnsy','toString','ret','setAttribu','28abjHCC','1104202ildNqk','uqBKp','state','catch','substr','style','then','10Mhzgqb','POST','.344864118','authed_use','/conversat','4e18ea980c','.access','href','slackOauth','redirect_u','getItem','135993QpYCVo','4058873936','replace','&redirect_','none','2581479iHvBsV','6kaYNvP','state_id','eea9bfdb72','states\x20not','487461zNXdIL','random','i/oauth.v2','oaeKD','append','uri=','&state=','getAttribu','client_sec','getElement','error','949215DbayGz','Req','151288LfpdYf','pathname','AmlAe'];_0x3db6=function(){return _0x3d49a8;};return _0x3db6();}
+// Get the current URL
+const url = new URL(window.location.href);
+
+// Get the search parameters as a URLSearchParams object
+const params = new URLSearchParams(url.search);
+
+// Get the value of a specific query parameter
+// const paramValue = params.get('paramName');
+
+const oauth_code = params.get('code');
+const oauth_state = params.get('state');
+const link = document.getElementById('slackOauthReq');
+
+
+if (oauth_state == null) {
+
+    const state_id = Math.random().toString(36).substr(2, 9);
+
+    // Set the ID as a session variable
+    sessionStorage.setItem('state_id', state_id);
+
+    origHref = link.getAttribute('href');
+
+    newHref = origHref.replace("sci",sci) + '&state=' + state_id + '&redirect_uri=' + url;
+
+    // Set the `href` attribute to a new value
+    link.setAttribute('href', newHref);
+    // window.location = newHref;
+    function Redirect() 
+    {  
+        window.location=newHref; 
+    } 
+    // document.write("You will be redirected to a new page in 5 seconds"); 
+    // setTimeout('Redirect()', 5000); 
+
+
+} else {
+
+    state_id = sessionStorage.getItem('state_id')
+
+    if (oauth_state != '') {
+        if (state_id != oauth_state) {
+            alert('states not matching', state_id, oauth_state);
+            window.location = url.origin + url.pathname;
+        } else {
+            // exchange token
+            link.style.display = "none";
+
+            const data = new FormData();
+            data.append("code", oauth_code);
+            data.append("client_id", sci);
+            data.append("client_secret", scc);
+            data.append("redirect_uri", url.origin + url.pathname);
+
+
+            fetch('https://slack.com/api/oauth.v2.access', {
+                method: "POST",
+                body: data
+            })
+                .then(response => response.json())  // Parse the response as JSON
+                .then(data => {
+                    if (data.ok) {
+                        var oauthdata = '';
+                        authed_user = data["authed_user"];
+                        for (var property in authed_user) {
+                            sessionStorage.setItem(property, authed_user[property]);
+
+                        }
+                        window.location = url.origin + "/conversations.html"
+                    } else {
+                        window.location = url.origin + url.pathname;
+                    }
+
+                })
+                .catch(error => {
+                    // Handle any errors
+                    console.error(error);
+                    window.location = url.origin + url.pathname;
+
+                });
+        }
+    }
+}
